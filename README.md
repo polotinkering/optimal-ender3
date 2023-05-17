@@ -12,4 +12,4 @@ I have organize my mods by letters :
 - [B] :usefull
 - [C] :not essential (aesthetic mods)
 ---
-![1684315006498](https://github.com/polotinkering/optimal-ender3/assets/133749952/65a001e2-9fd3-468f-85c1-5d62bd41880f =500x500)
+<img src="https://github.com/polotinkering/optimal-ender3/assets/133749952/65a001e2-9fd3-468f-85c1-5d62bd41880f" =500x500)
