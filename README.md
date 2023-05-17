@@ -1,5 +1,5 @@
 # optimal-ender3
-the best ender 3 setup in my opinion !
+**the best ender 3 setup in my opinion !**
 ---
 so here it is it's time to share the current setup of my printer . 
 I think that i am currently runing one of the best budget setup for an ender 3.
