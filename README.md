@@ -13,4 +13,3 @@ I have organize my mods by letters :
 - [C] :not essential (aesthetic mods)
 ---
 ![1684315006498 (1)](https://github.com/polotinkering/optimal-ender3/assets/133749952/c2fa58d8-b098-4215-976e-11a52993c563)
-![ender](https://drive.google.com/file/d/1P40O1uC5tZAVkrfZsizTbzkEG3bwmKJX/view)
