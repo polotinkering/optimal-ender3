@@ -11,3 +11,5 @@ I have organize my mods by letters :
 - [A] :very usefull
 - [B] :usefull
 - [C] :not essential (aesthetic mods)
+---
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
