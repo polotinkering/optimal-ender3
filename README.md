@@ -7,7 +7,7 @@ I have done these modification by necessity or some just for aesthetic but alway
 ---
 So let's start :
 I have organize my mods by letters :
--[S] :best mods practicaly essential in my opinion
--[A] :very usefull
--[B] :usefull
--[C] :not essential (aesthetic mods)
+- [S] :best mods practicaly essential in my opinion
+- [A] :very usefull
+- [B] :usefull
+- [C] :not essential (aesthetic mods)
