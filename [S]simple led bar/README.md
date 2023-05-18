@@ -6,3 +6,4 @@ for this upgrade you will need:
 - some wire
 - A switch (I have choose a simple round one to make integration easier)
 - maybe a connector if you want a cleaner instalation than mine x)
+![Uploading IMG_20230518_114841.jpg…]()
