@@ -7,8 +7,10 @@ this mod will cost you :
 
 this mod is verry usefull and it will last you longer than the plastic one .
 ![IMG_20221025_112202](https://github.com/polotinkering/optimal-ender3/assets/133749952/1c2f366c-1e8c-4876-b024-ae67089cf125)
+![IMG_20221115_074604](https://github.com/polotinkering/optimal-ender3/assets/133749952/e264879e-6be9-46bd-99b4-e2205d2aba0c)
 optionaly you can also like me upgrade later on the voron afterburner and there is many reason why you would want to do that :
 - print easily flexibles materials like TPU .
 - do maintenance much more easily because it is very convenient to dissassemble .
 - swap from one hot end to another realy quickly .
 - have a much more slylish printer 😎.
+
