@@ -1,4 +1,4 @@
-Silicon bed srpings 
+Silicon bed springs
 ---
 In this page i will cover a very simple yet very usefull mod that i have done on day one :
 these silicone plots instead of the original bed springs.  
