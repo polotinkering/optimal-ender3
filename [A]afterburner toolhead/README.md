@@ -1,4 +1,7 @@
-optionaly you can also like me upgrade later on the voron afterburner and there is many reason why you would want to do that :
+Voron afterbuner
+---
+one of the best upgrades i have done until now
+this is why you would want to switch to afterbuner :
 - print easily flexibles materials like TPU .
 - do maintenance much more easily because it is very convenient to dissassemble .
 - swap from one hot end to another realy quickly .
