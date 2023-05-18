@@ -16,3 +16,4 @@ optionaly you can also like me upgrade later on the voron afterburner and there 
 
 - have a much more slylish printer 😎.
 
+![afterburner face](https://github.com/polotinkering/optimal-ender3/assets/133749952/f948a27c-f1ba-4275-9697-52a35a407690)
