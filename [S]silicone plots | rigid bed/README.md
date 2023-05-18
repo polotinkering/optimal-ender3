@@ -1,4 +1,5 @@
-#titreSilicon bed srpings 
+Silicon bed srpings 
+---
 In this page i will cover a very simple yet very usefull mod that i have done on day one :
 these silicone plots instead of the original bed springs.  
 It makes the bed a lot more rigid and don't require a lot of time and money so it's a must have on any I3 type of printer !
