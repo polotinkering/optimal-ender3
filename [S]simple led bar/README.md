@@ -6,3 +6,4 @@ for this upgrade you will need:
 - some wire
 - [A switch](https://fr.aliexpress.com/item/32822549892.html?spm=a2g0o.productlist.main.39.28c0ffa6WdjCm3&algo_pvid=9a3c75ca-7e93-49a4-a92c-b8aea2d8a3f0&algo_exp_id=9a3c75ca-7e93-49a4-a92c-b8aea2d8a3f0-19&pdp_npi=3%40dis%21EUR%212.98%210.49%21%21%21%21%21%40214527c616844264231703716d0723%2164969536126%21sea%21FR%210&curPageLogUid=ZqPaKdVPnEzF) for around 3€ you can get 10 (I have choose a simple round one to make integration easier)
 - maybe a connector if you want a clean instalation .
+![IMG_20230518_114841](https://github.com/polotinkering/optimal-ender3/assets/133749952/b2ff0234-67df-4a99-9cbb-b806a0d18f43)
