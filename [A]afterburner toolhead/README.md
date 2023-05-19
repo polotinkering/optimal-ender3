@@ -9,6 +9,7 @@ this is why you would want to switch to afterbuner :
 
 I have reused the gear from my dual gear extruder seen above.  
 it have worked perfectly great since the biggining and after swapping to a mosquito knock off i don't have any trouble when printing hight temp material like ABS or PETG.
-And if you have a voron you can have a common stock of spare printed parts wich is realy convinient if you have a problem on one of your printers .
+And if you have a voron you can have a common stock of spare printed parts wich is realy convinient if you have a problem on one of your printers .  
+Big thanks to the voron team for developping this toolhead !
 
 ![Polish_20230518_120700527](https://github.com/polotinkering/optimal-ender3/assets/133749952/30d6c5dd-ce91-41c9-9c70-3160d598c53f)
