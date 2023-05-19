@@ -9,4 +9,4 @@ this mod is verry usefull and it will last you longer than the plastic one .
 ![extrudr](https://github.com/polotinkering/optimal-ender3/assets/133749952/103df310-d05b-4da8-af24-fa12ca6cd2dd)
 *sorry for the bad photo quality i don't take photo of my printer too often*  
 
-optionaly you can also like me upgrade later on the voron afterburner. *explnation on the afterbuner category*
+optionaly you can also like me upgrade later on the voron afterburner. *explenation on the afterbuner category*
