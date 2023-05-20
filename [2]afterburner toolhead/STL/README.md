@@ -1,4 +1,5 @@
 I used the setting provided by voron on their manual :
+---
 - 40% infill
 - 3 perimeters 
 - 4 top/bottom layers
