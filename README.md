@@ -7,10 +7,10 @@ I have done these modification by necessity or some just for aesthetic but alway
 ---
 So let's start :
 I have organize my mods by letters :
-- [S] :best mods practicaly essential in my opinion
-- [A] :very usefull
-- [B] :usefull
-- [C] :not essential (aesthetic mods)
+- [1] :best mods practicaly essential in my opinion
+- [2] :very usefull
+- [3] :usefull
+- [4] :not essential (aesthetic mods)
 ---
 **so here it is in all his glory:**
 ![1684315006498 (1)](https://github.com/polotinkering/optimal-ender3/assets/133749952/c2fa58d8-b098-4215-976e-11a52993c563)
