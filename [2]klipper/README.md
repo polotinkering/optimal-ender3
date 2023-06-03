@@ -14,7 +14,9 @@ Now you can follow the [kiauh documentation](https://github.com/th33xitus/kiauh)
 you need to install :
 - klipper 
 - moonraker
-- a web interface : mainsail or fluidd *I have choose fluidd*
-after you need a "printer.cfg" file i have shared mine in the files section of this folder .
+- a web interface : mainsail or fluidd *I have choose fluidd*  
+
+After you need a "printer.cfg" file i have shared mine in the files section of this folder .  
+
 this is my interface:
 ![fluidd](https://github.com/polotinkering/optimal-ender3/assets/133749952/80b7a566-8e9d-45e8-bd53-932f20e9f6e0)
