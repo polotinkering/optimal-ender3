@@ -6,9 +6,9 @@ I think that i am currently running one of the best budget setup for an ender 3.
 I have done these modification by necessity or some just for aesthetic but always on a budget (No micro swiss here^^)
 ---
 So let's start :
-I have organize my mods by letters :
+I have organized my mods by letters :
 - [1] :best mods practicaly essential in my opinion
-- [2] :very usefull
+- [2] :very useful
 - [3] :usefull
 - [4] :not essential (aesthetic mods)
 ---
